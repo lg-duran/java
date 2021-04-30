@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Contrato
+comment1.params=dataDeEmissao\ conteudoDoContrato\ emissorDoContrato
+comment1.target=Contrato(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ imprimirContrato()
+numComments=3
